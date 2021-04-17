@@ -1,3 +1,26 @@
-.news-block{
+.author-chips {
     margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    // align-items: center;
+}
+
+.news {
+    margin-top: 1rem;
+    &__items {
+    }
+    &__item {
+        // margin: .1rem;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        background-color: bisque;
+        border-bottom: blueviolet;
+        border-bottom-width: 2px;
+        border-bottom-style: dashed;
+    }
+    &__title {
+        color: blue;
+    }
+    &__author {
+    }
 }
