@@ -26,11 +26,19 @@
   right: 1rem;
   z-index: 1;
   display: grid;
+  
   a {
     padding: 0.4rem;
     @include transition-ease;
     &:hover {
       color: red;
     }
+  }
+}
+
+
+@for $i from 1 through 4 {
+  .social-icons:nth-child(#{$i}) {
+      transition-delay: ($i * .1s) + .15s;
   }
 }
