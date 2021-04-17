@@ -1,3 +1,4 @@
+
 <mat-sidenav-container class="sidenav-container">
     <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
         [mode]="(isHandset$ | async) ? 'over' : 'side'" [opened]="(isHandset$ | async) === false">
@@ -20,6 +21,21 @@
             <span>GisGyms Tidning</span>
         </mat-toolbar>
         <!-- Add Content Here -->
-        <router-outlet></router-outlet>
+        <div class="social-icons">
+            <a href="#">
+                <i class="fab fa-twitter fa-2x"></i>
+            </a>
+            <a href="#">
+                <i class="fab fa-facebook fa-2x"></i>
+            </a>
+            <a href="#">
+                <i class="fab fa-instagram fa-2x"></i>
+            </a>
+            <a href="#">
+                <i class="fab fa-github fa-2x"></i>
+            </a>
+        </div>
+        <!-- <router-outlet></router-outlet> -->
+        
     </mat-sidenav-content>
 </mat-sidenav-container>
