@@ -33,7 +33,7 @@
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/styles.scss",
+              "src/dist/SCSS/styles.scss",
               "./node_modules/bootstrap/dist/css/bootstrap-grid.css"
             ],
             "scripts": []
@@ -94,12 +94,11 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets",
-              "src/assets/logo.svg"
+              "src/assets"
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/styles.scss"
+              "src/dist/SCSS/styles.scss"
             ],
             "scripts": []
           }
