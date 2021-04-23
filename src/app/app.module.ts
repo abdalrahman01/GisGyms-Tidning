@@ -10,6 +10,7 @@ import { MaterialModule } from './material/material.module';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { LunchComponent } from './lunch/lunch.component';
+import { EleverComponent } from './elever/elever.component';
 
 
 @NgModule({
@@ -18,6 +19,7 @@ import { LunchComponent } from './lunch/lunch.component';
     HomeComponent,
     AboutComponent,
     LunchComponent,
+    EleverComponent,
 
   ],
   imports: [

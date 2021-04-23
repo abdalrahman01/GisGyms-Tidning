@@ -1,0 +1,7 @@
+<div *ngFor="let class of elever">
+    <h1>{{class.class_name}}</h1>
+    <div *ngFor="let elev of class.students">
+        {{ elev}}
+    </div>
+    <hr>
+</div>

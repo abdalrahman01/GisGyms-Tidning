@@ -1,0 +1,1397 @@
+[
+    {
+        "class_name": "BA18",
+        "students": [
+            "Mohamad Atieh",
+            "John Carlsson",
+            "Filip Gunnarsson",
+            "Ali Jafari",
+            "Gabriel Jakobsson",
+            "Edwin Jannesson Silfros",
+            "Sebastian Malmfelt",
+            "Filip Puranen",
+            "Abdulrahman Said",
+            "John Svensson",
+            "Mohammed Talal Mohammed Jbarah"
+        ]
+    },
+    {
+        "class_name": "BA19",
+        "students": [
+            "Konstantinos Athanasiadis",
+            "Emil B\u00e4ckstr\u00f6m",
+            "Robin Dausch",
+            "Valton Hammarstr\u00f6m",
+            "Simon Johansson",
+            "Rasmus Laihinen Jonasson",
+            "Gustav Lust",
+            "Marcus N\u00e4slund",
+            "Jonathan Persson",
+            "Viggo Rundberg",
+            "Anton Sanell",
+            "Max Sepp\u00e4l\u00e4",
+            "Hubert Stodulski",
+            "Elias S\u00f6derlind",
+            "Clara Wallin",
+            "Isabelle \u00c5kesson"
+        ]
+    },
+    {
+        "class_name": "BA20",
+        "students": [
+            "Neah Ankarbranth",
+            "Loke Bj\u00f6rklund",
+            "Adrian Grube Davidsson",
+            "Simon Gustafsson",
+            "Deyani Fre Hadgu",
+            "Adrian Jannesson",
+            "Jonathan Josefsson",
+            "Nora Kronvall",
+            "Adam Lindgren",
+            "Alexander L\u00f6fstedt",
+            "Oskar Mann",
+            "Philip Nielsen Apelqvist",
+            "Christopher Nilsson",
+            "William Ohliw",
+            "Teddy Ols\u00e9n",
+            "Andreas Widetoft"
+        ]
+    },
+    {
+        "class_name": "BF18",
+        "students": [
+            "Alfred Axelsson",
+            "Stina Hyd\u00e9n",
+            "Mahamed Abdullahi Isman",
+            "Abdikariim Issa Mohamed",
+            "Emilia Jakobsson",
+            "Brandon Jensen",
+            "Elin Malmgren",
+            "Alice Malmqvist",
+            "Oskar Mod\u00e9n",
+            "Ali Mohamed",
+            "Ikran Abdulhakim Mohamed",
+            "Sejla Orascanin",
+            "Pontus Stigson",
+            "Wilma Theorin"
+        ]
+    },
+    {
+        "class_name": "BF19",
+        "students": [
+            "Farah Abdi Mahamud",
+            "Wilma Bordal",
+            "Zendin Boric",
+            "Linus B\u00e4geby",
+            "Loredana Campbell",
+            "Rama Derak",
+            "Aiham Haj Mustafa",
+            "Hashi Haji Hashi",
+            "Amanda Hedlund",
+            "Jonathan Johnsson",
+            "Sanna Karlsson",
+            "M\u00e4rta Larsson",
+            "Haaruun Abdirashid Mahamed",
+            "Milad Nikzad",
+            "Shueib Aden Sambul"
+        ]
+    },
+    {
+        "class_name": "BF20",
+        "students": [
+            "Matilda Bertilsson",
+            "Ida Dedic",
+            "Jeff Hansson",
+            "Victor Henriksson",
+            "Jacob J\u00e4rvisalo",
+            "Johan Lagerkvist",
+            "Henrik Lu",
+            "Albin Lund",
+            "Ellen Lund",
+            "Thea Lundmark",
+            "Harid Preedee",
+            "Watcharaporn Sawangpop",
+            "Maryan Abdirahman Yusuf"
+        ]
+    },
+    {
+        "class_name": "EE18",
+        "students": [
+            "Martin Alacevski",
+            "Vincent Berg",
+            "Thim Bergstr\u00f6m \u00d6berg",
+            "Hannes Carlstr\u00f6m",
+            "Lucas Carlstr\u00f6m",
+            "Robin Enlund",
+            "Joan Hadji",
+            "Javad Haydari",
+            "Vahid Jafari",
+            "Ludvig Jarenmark Pettersson",
+            "Mohammad Reza Khawari",
+            "Filip Manojlovski",
+            "Salleh Miro",
+            "William Moberg",
+            "Mohammad Pakfetrat",
+            "Stefan Popovic",
+            "Amirhussein Rezaie",
+            "Mohsen Rezaie",
+            "Lukas Rudolfsson",
+            "Lyle Sahlin",
+            "Martin Tran Vo"
+        ]
+    },
+    {
+        "class_name": "EE19",
+        "students": [
+            "Krystian Adamczuk",
+            "Ture Adolfsson",
+            "Adnan Ajra",
+            "Elon Berisha",
+            "Erik Claesson",
+            "Laris Cosic",
+            "Marko Djordjevic",
+            "Adam Eriksson",
+            "Aldin Fikic",
+            "Alex Juhl\u00e9n",
+            "Alfred Karlsson",
+            "Abdulrahman Khalifa",
+            "Ludwig M\u00e5rtensson Feldt",
+            "Carl Nyberg",
+            "Benjamin Oschmann",
+            "Vedin Rahmanovic",
+            "David Seger",
+            "Ludwig Sj\u00f6land",
+            "David Sj\u00f6str\u00f6m",
+            "Emanuel Theil",
+            "Alfred Wackhammar",
+            "Albin Wilhelmsson",
+            "Leo \u00d6stergren"
+        ]
+    },
+    {
+        "class_name": "EE20",
+        "students": [
+            "Philip Alm Johansson",
+            "Marcus Andersson",
+            "Paul Bark",
+            "Jimmy Vu Cung",
+            "Jonny Vu Cung",
+            "Benjamin Gajon Padilla",
+            "Max Gunnarsson",
+            "Adam Gustafsson",
+            "Felix Gustavsson",
+            "Mamdouh Hashem",
+            "Isak Hjalmarsson",
+            "Hampus Ivansson",
+            "Filip Kiseloski",
+            "William Larsson",
+            "Darien Leyton Bueno",
+            "Henrik Luu",
+            "Ville Martinsson",
+            "Agron Memisi",
+            "Philip Segeflo Axelsson",
+            "Lucas Soininen Barv\u00f6",
+            "Gustaf Str\u00f6mer",
+            "Adam Sundstr\u00f6m"
+        ]
+    },
+    {
+        "class_name": "EK18A",
+        "students": [
+            "Alma Bengtsson",
+            "Eliza Berisha",
+            "Elsa Blom\u00e9n",
+            "Ebba Carlstr\u00f6m",
+            "Angelica Colliander",
+            "Arvid Djur\u00e4ng",
+            "Olivia Forsgren",
+            "Anna Fredriksson",
+            "David Fryeleg\u00e5rd",
+            "Stina Gustafsson",
+            "Albin Hadzic",
+            "Hedda Hast",
+            "Moa H\u00f6rberg Bengtsson",
+            "Denise Karic",
+            "Lizette Kaver\u00e9n",
+            "Herman Kopsch",
+            "Alice Ottosson",
+            "Molly Petersson",
+            "Joanna Popovska",
+            "Wiktoria Katarzyna Stodulska",
+            "Oscar Sundberg",
+            "Isac Sunesson",
+            "Filip Tapken",
+            "Alfred Vallesj\u00f6",
+            "Ajla Velic"
+        ]
+    },
+    {
+        "class_name": "EK18B",
+        "students": [
+            "Albina Aljiu",
+            "Noor Alqadi",
+            "Nora Andersson",
+            "Loretta Andric",
+            "Amanda Attelid",
+            "Felicia Axelsson",
+            "Albin Boquist",
+            "Husein Ceric",
+            "Ellen Dyeson",
+            "Alice Ekstrand",
+            "Hugo Enocson",
+            "Nora Forsgren",
+            "Ella Frisk",
+            "Rickard Gunnarsson",
+            "Masoud Hassan",
+            "Nour Kahwaji",
+            "Ella M\u00e5rtensson",
+            "Hugo Nilsson",
+            "Tilda Olofsson",
+            "Andrea Rapic",
+            "Oscar Sand",
+            "Ella Stjerneby",
+            "Emma Vallesj\u00f6",
+            "Julia Yaghi",
+            "Rukia Abdirahman Yusuf"
+        ]
+    },
+    {
+        "class_name": "EK19A",
+        "students": [
+            "Charukit At-Asa",
+            "Angela Bjelovuk",
+            "Julia Bj\u00f6rklund",
+            "Max Bj\u00f6rkman",
+            "Tim Fernblad",
+            "Ajdina Halilic",
+            "Thea Hammarstr\u00f6m",
+            "Stina Hoff",
+            "Alma H\u00e5kansson",
+            "My Johansson",
+            "Ellen Karlsson",
+            "Wilma Lundberg",
+            "Ellen Lundgren",
+            "Lisa M\u00e5rtensson",
+            "Ricq Dylan Ndayishimiye",
+            "Albin Nielsen Apelqvist",
+            "Annie Orshagen",
+            "Jovana Prole",
+            "Freja Sinning Dalsgaard",
+            "Ebba Sk\u00e4r",
+            "Elin Stegerling",
+            "Ella St\u00f6rling",
+            "Ellen Svensson",
+            "Piyaphat Thongbu",
+            "Ida Wallentin",
+            "Alice Vallesj\u00f6",
+            "Anton Wolf",
+            "Marina Yousef",
+            "Felicia \u00c5berg"
+        ]
+    },
+    {
+        "class_name": "EK19B",
+        "students": [
+            "Linn Alstr\u00f6m",
+            "Hampus Andersson",
+            "Hanya Bahadori",
+            "Malte Bj\u00f6rkman",
+            "Ludvig Bostig",
+            "Tuva Eliasson",
+            "Isabelle Gunnarsson",
+            "Selma Hadi",
+            "Ajdin Halilic",
+            "Emilia Hammar",
+            "Pontus Hammarstig",
+            "Benjamin Hamzic",
+            "Noa Helmetschl\u00e4ger",
+            "Amanda Holm",
+            "Johanna Ivansson",
+            "Oscar Ivarsson",
+            "Malcolm Johansson",
+            "Max Lago Olsson",
+            "Liam Lindeborg",
+            "Albin Linder",
+            "Anton Ljubicic",
+            "Hugo Moberg",
+            "Axel M\u00e5rtensson",
+            "Gabriel Nkuru",
+            "Mattias Pettersson",
+            "Tindra Pettersson",
+            "Adela Sabic",
+            "Emil Trevik",
+            "Hanna Velic"
+        ]
+    },
+    {
+        "class_name": "EK20A",
+        "students": [
+            "Lisa Andersson",
+            "Ronny Gradin",
+            "Elin Gunnarsson",
+            "Elsa Gunnarsson",
+            "Hugo Johansson",
+            "Klara Johansson",
+            "Matilda Johansson",
+            "Olle Lidbacken",
+            "Elin Ljungberg",
+            "Agnes L\u00f6bo",
+            "Calle Olsson",
+            "Anna Papatheodorou",
+            "Amanda Paratusic",
+            "Tilda Roth\u00e9n",
+            "Celina Sj\u00f6berg",
+            "Nellie Sj\u00f6dahl",
+            "Ludwig Sundberg",
+            "Ellen Vesterlund Andersson",
+            "Fanny \u00c5berg"
+        ]
+    },
+    {
+        "class_name": "EK20B",
+        "students": [
+            "Adrian Blakqori",
+            "Axel Br\u00fcel",
+            "Christina Cao",
+            "Vilma Carlstr\u00f6m",
+            "Oskar Djur\u00e4ng",
+            "Malin Eliasson",
+            "Robin Fredriksson",
+            "Evelina Gunnarsson",
+            "Emmy Karlsson",
+            "Lina Lidbacken",
+            "Andreas Lundahl",
+            "Benjamin Mujezinovic",
+            "Smilla Petersson",
+            "Elliot Pettersson",
+            "Olle Ros\u00e9n",
+            "Albert Rrustemi",
+            "Saga Stacke",
+            "Elsa St\u00e5hl",
+            "Wilma Svensson"
+        ]
+    },
+    {
+        "class_name": "ESB18",
+        "students": [
+            "Anida Mehmedovic",
+            "Matilda Sahlin",
+            "Nowa Wilbertsson"
+        ]
+    },
+    {
+        "class_name": "ESB19",
+        "students": [
+            "Farah Al Krad",
+            "Lovisa Andersson",
+            "Alma Burzic",
+            "Emilia Ericson",
+            "Majken Folkestad",
+            "Edvin Gigovic",
+            "Nellie Holmqvist",
+            "Wilma Jensen",
+            "Oskar Johansson",
+            "Jonatan Kroon",
+            "Julia Lage",
+            "Siri Mehtola",
+            "Alma Petersson",
+            "Ligia Rutkowska",
+            "Jonna Siltala",
+            "Victor S\u00f6derlund",
+            "Elin Zovic"
+        ]
+    },
+    {
+        "class_name": "ESB20",
+        "students": [
+            "Tuva Gyllensten",
+            "Max Klaar",
+            "Ellen Krafft",
+            "Anna Nguyen",
+            "Johanna Nguyen",
+            "Paulina Nguyen",
+            "Stina Nord\u00e9n",
+            "Renata Reutava",
+            "Kanyarat Satapol",
+            "Johanna Scott",
+            "Hanna Stigson",
+            "Noah Sund",
+            "Filippa Svensson"
+        ]
+    },
+    {
+        "class_name": "ESD18",
+        "students": [
+            "Tilda Ahlsteiner",
+            "Marija Arsovska",
+            "Selma Blidberg",
+            "Moa Gustafsson",
+            "Bojana Jovasevic",
+            "Ella Karlsson",
+            "Edit Liljekvist",
+            "Promporn Puangsikeaw",
+            "Emilia Stenstr\u00f6m",
+            "Agnes Venholen"
+        ]
+    },
+    {
+        "class_name": "ESD19",
+        "students": [
+            "Ida Abrahamsson",
+            "Astrid Holmstrand",
+            "Alma Johansson",
+            "Klara Karlsson",
+            "Engla Lindh",
+            "Nim Lingeskog",
+            "Emma Svensson",
+            "Josefine Wallengren",
+            "Elsa Wernerhag"
+        ]
+    },
+    {
+        "class_name": "ESD20",
+        "students": [
+            "Oliwia Andersson",
+            "Ofhelia Edin",
+            "Dominiqu\u00e9 Krivohlavek",
+            "Emilia Lindberg",
+            "Isabella Thorup"
+        ]
+    },
+    {
+        "class_name": "ESM18",
+        "students": [
+            "Zeinab Aboubaker",
+            "Tim Ankarbranth",
+            "Casper Dolck",
+            "Nathalie Gustafsson",
+            "Robert Hoban",
+            "Klara J\u00f6nsson",
+            "Kevin Karlsson Angove",
+            "Adam Liljedahl",
+            "Tuva L\u00f6\u00f6v",
+            "Hampus Rodin",
+            "Elias Sandberg",
+            "Julia Schmidt",
+            "Viktor Sk\u00f6ld",
+            "Hanna Svedberg",
+            "Johannes S\u00f6derberg Howerdal",
+            "Kristian Temjanoski"
+        ]
+    },
+    {
+        "class_name": "ESM19",
+        "students": [
+            "Victor Berglund",
+            "Emmie Elverlind",
+            "Alma Enoksson",
+            "Linn\u00e9a Fisk",
+            "Filippa Hedenborg",
+            "Thea Holm\u00e9n",
+            "Shane Jensen",
+            "William Karlsson",
+            "Emma Lempi\u00e4inen",
+            "Nellie Liljeblad",
+            "Leon S\u00f6derlund",
+            "Elin Vettebrand"
+        ]
+    },
+    {
+        "class_name": "ESM20",
+        "students": [
+            "Isabella Ahlstr\u00f6m Blomquist",
+            "Fingal Andersson Edvardsson",
+            "Jennifer Bergstrand",
+            "M\u00e4rta Bj\u00f6rst\u00e5l",
+            "Adrian Blomqvist",
+            "Alma B\u00e4ckrud",
+            "Olivia Danielsson",
+            "Maja Ekros",
+            "Yanina Espinoza Goldschmidt",
+            "Leopold Hedman",
+            "Alma Kallo",
+            "Eddie Lundberg",
+            "Nivin Muhamed",
+            "Moa Nordstr\u00f6m",
+            "Emil Odin",
+            "Cornelia Sigvardsson",
+            "Maja Skogsberg",
+            "Anton Wahlstedt"
+        ]
+    },
+    {
+        "class_name": "FT18",
+        "students": [
+            "Tomas Alhosari"
+        ]
+    },
+    {
+        "class_name": "GS19",
+        "students": [
+            "Artina Rrustemi"
+        ]
+    },
+    {
+        "class_name": "GSFAS",
+        "students": [
+            "Abd Alrahman Ali",
+            "Edvin Johansson"
+        ]
+    },
+    {
+        "class_name": "GSHRA",
+        "students": [
+            "Dana Aliwa",
+            "Kristoffer Erlandsson",
+            "Shekiba Hussani",
+            "Jacob Lundin",
+            "Phuong Loan Phan",
+            "Nooah Viertotak",
+            "Emilia Vilhelmsson"
+        ]
+    },
+    {
+        "class_name": "GSHRB",
+        "students": [
+            "Linn\u00e9a Berntsson",
+            "Albert Claesson",
+            "Simon Davidsson",
+            "Ghina Fayad",
+            "Isabella Hansen",
+            "Alicia Synnergren"
+        ]
+    },
+    {
+        "class_name": "GSIND",
+        "students": [
+            "Tilda Eriksson",
+            "Mivan Ghafor",
+            "Ida G\u00f6ransson",
+            "Lina Junerud",
+            "Mahaoua Cassandra Diakete Kaba",
+            "Frida Kraft",
+            "Therese Nilsson",
+            "Dominik Piperkovic Lesic",
+            "Mikael Skogsbrant"
+        ]
+    },
+    {
+        "class_name": "GSINDA",
+        "students": [
+            "Richard Magnusson"
+        ]
+    },
+    {
+        "class_name": "HA18",
+        "students": [
+            "Ajla Bilajac",
+            "Labinot Dibrani",
+            "Najiib Abdi Hussein",
+            "Osama Khaled",
+            "Agnes Matsson",
+            "Salama Ali Saalim",
+            "Emmelie St\u00e5ngberg",
+            "Mohamad Yousef"
+        ]
+    },
+    {
+        "class_name": "HA19",
+        "students": [
+            "Asmaa Abd Ullah",
+            "Wesley Davis",
+            "Mirjana Doncic Bjelovuk",
+            "Sejla Fejzic",
+            "Shahd Miro",
+            "Mehmet Murati",
+            "Anton Spjut",
+            "Abdul Jabar Trkman",
+            "Moa \u00c5gren"
+        ]
+    },
+    {
+        "class_name": "HA19L",
+        "students": [
+            "Gabriela Armulika",
+            "Semhar Fre Hadgu",
+            "Alexander Johnsson",
+            "Sanna Karlsson"
+        ]
+    },
+    {
+        "class_name": "HA20",
+        "students": [
+            "Abbas Abdallah",
+            "Elin Abdelaal",
+            "Leen Abdelaal",
+            "Enes Abduramanovski",
+            "Sema Al Amouri",
+            "Chahed Al Krad",
+            "Assad Almuslli Ghannam",
+            "Mohammad Alqadi",
+            "Annie Cnattingius",
+            "Leila Cortas",
+            "Amanda Dibrani",
+            "Emma Djulic",
+            "Maryam Yuusuf Haamud",
+            "Muna Hani",
+            "Nora Liljegren",
+            "Felicia Loftby",
+            "Emelie Morell",
+            "Tilda Petersson",
+            "Josefin Popovska",
+            "Anna Maria Quiscualtud Millan",
+            "Mansour Sharafi",
+            "Oscar St\u00e5lbrand"
+        ]
+    },
+    {
+        "class_name": "HT19L",
+        "students": [
+            "Ella H\u00e5kansson",
+            "Emma Isidorsson"
+        ]
+    },
+    {
+        "class_name": "IM20A",
+        "students": [
+            "Albin Abrahamsson",
+            "Filip Abrahamsson",
+            "Dalaa Al Mushref",
+            "Weam Alsultan",
+            "Vinn Borginger Nilsson",
+            "Carlos Duvingelo Galarce",
+            "Wijdan Faraj",
+            "Faride Hajizade",
+            "Munasar Abdullahi Isman",
+            "Elsa Jonsson",
+            "Nawar Lebbadi",
+            "Carl Liljander",
+            "Rasmus Liljeqvist Lust",
+            "Alexander Nilsson",
+            "Ida Nilsson",
+            "Dawid Owczorz",
+            "Emilia Samberg",
+            "Marija Takovska"
+        ]
+    },
+    {
+        "class_name": "IM20B",
+        "students": [
+            "Ida Bj\u00f6rck",
+            "Oliver Elvingsson",
+            "Enis Hodzic",
+            "Filip H\u00e5kansson",
+            "Paulina Jensen",
+            "Felix Johnsson",
+            "Nathalie Klavsta Gustafsson",
+            "Cornelia Lage",
+            "Emma Lundgren",
+            "Felipe Pedersen"
+        ]
+    },
+    {
+        "class_name": "IM20C",
+        "students": [
+            "Hosain Abd Ullah",
+            "Elhame Ajra",
+            "Mohammad Akbari",
+            "Mohammad Ahmad Al Mahamed",
+            "Ghafan Alali Alturken",
+            "Yara Alesa",
+            "Shahd Alhussien",
+            "Ibraheim Alibrahim",
+            "Mohamed Alomar",
+            "Minna Blidberg",
+            "Drilon Bytyqi",
+            "Roberto Danqi",
+            "William Fuenzalida Sukbumrung",
+            "Robiel Gebrehewit",
+            "Mustafa Hamami",
+            "Omar Hendawi",
+            "Josefin Hjertberg",
+            "Darin Ied",
+            "Filip Ingman",
+            "Haneen Modallal",
+            "Asma Mohamad",
+            "Linus Penland",
+            "Vanessa Santiago"
+        ]
+    },
+    {
+        "class_name": "IM20F",
+        "students": [
+            "Stefan Buzila",
+            "Adam Eriksson",
+            "Filip Johansson",
+            "Maximilian Klang",
+            "Pontus Mehtola",
+            "John Movallius",
+            "Adnan Pobric",
+            "David Sebastian Vulcu"
+        ]
+    },
+    {
+        "class_name": "IMS20A",
+        "students": [
+            "Hani Shafe Abdi",
+            "Ola Khalid Hashim Hassan Ahmed",
+            "Shamila Akbari",
+            "Abdul Aziz Alali",
+            "Omran Walid Alloush",
+            "Hanan Alshandoghli",
+            "Baraa Alzarrak",
+            "Venhar Asllani",
+            "Yousef Atieh",
+            "Shadha Awadh",
+            "Panyaphon Channongkam",
+            "Areej Mohammad Mahmoud Charawi",
+            "Sausan Diab",
+            "Parisa Faqiri",
+            "Tanya Mouhanad Ghzlan",
+            "Nour Eddin Hasan",
+            "Majed Izraeil",
+            "Semir Jusufoski",
+            "Sara Kardelis",
+            "Mahdi Khavari",
+            "Truong Huyen Tran Le",
+            "Rand Mirou",
+            "Ali Zia Mohammadi",
+            "Vuong An Nguyen",
+            "Aya Qais Yaseen Abdo Qaid",
+            "Ruaa Qais Yaseen Abdo Qaid",
+            "Salah Qais Yaseen Abdo Qaid",
+            "Maram Sheber"
+        ]
+    },
+    {
+        "class_name": "IMS20B",
+        "students": [
+            "Million Angesom Abraha",
+            "Maryam Ahmadi",
+            "Zuhra Ahmadi",
+            "Hanin Al Talaa",
+            "Esraa Alali",
+            "Ali Sina Arabzada",
+            "Lorraine Joy Asuncion Cabute",
+            "Jin Nawarat Bunthawee",
+            "Fardousa Daud",
+            "Mustafe Daud",
+            "Aya Hani",
+            "Iman Ileas",
+            "Mohamed Jabbas",
+            "Mohamed Kak",
+            "Emilia Kirchhausen",
+            "Betelihem Mhreteab Michael",
+            "Mojtaba Mohammadi",
+            "Simin Mohammadi"
+        ]
+    },
+    {
+        "class_name": "IMS20C",
+        "students": [
+            "M-Hafs Abdul Aziz",
+            "Kisanet Angesom Abraha",
+            "Bashaer Al Zafiri",
+            "Soud Al Zafiri",
+            "Rana Al-Attafi",
+            "David Aleksovski",
+            "Ahmad Ayoub",
+            "Mohammad Ghozlan",
+            "Iman Mouhanad Ghzlan",
+            "Rahullah Khazan",
+            "Mahmoud Lila",
+            "Semhar Tesfahiwet"
+        ]
+    },
+    {
+        "class_name": "IMYIN20",
+        "students": [
+            "Abdikadir Abdi",
+            "Saed Abdi",
+            "Zakariya Alhasan",
+            "Emin Azemi",
+            "Jean Ferdinand Nkuru",
+            "Andrej Ristovski",
+            "Pavle Sadzak",
+            "Ali Sultani"
+        ]
+    },
+    {
+        "class_name": "IMYVO20",
+        "students": [
+            "Kasem Alkrad",
+            "Asho Abdulahi Hasan",
+            "Ubah Abdulahi Hasan",
+            "Yasmin Abdulahi Hasan",
+            "Barwaaqo Ali Jamac",
+            "Fardowzo Yusuf Mohamed",
+            "Jennifer Niklasson"
+        ]
+    },
+    {
+        "class_name": "IN20",
+        "students": [
+            "Martin Hauger\u00f6d",
+            "Hampus Johansen",
+            "Elvedin Muhic",
+            "Isac Nilsson",
+            "David Rapic",
+            "Daniel Reljanovic",
+            "Andreas Samuelsson",
+            "Joel \u00c5berg"
+        ]
+    },
+    {
+        "class_name": "NA18",
+        "students": [
+            "Saly Addas",
+            "Edib Bilic",
+            "Roaa Dadouch",
+            "Tony Dao",
+            "Raza Ghazi",
+            "Sihaam Yuusuf Haamud",
+            "Aya Haj Mustafa",
+            "Abdu Kasozi",
+            "Shaima Kassem",
+            "Amer Krvavac",
+            "Zoje Racaj",
+            "Isac Sandstr\u00f6m",
+            "Diana Skogastierna"
+        ]
+    },
+    {
+        "class_name": "NA19",
+        "students": [
+            "Asil Mohammed Abugharbia",
+            "Ahmed Ali",
+            "William Berg",
+            "Eddie Engvall",
+            "Lin Fanari",
+            "Learta Hyseni",
+            "Linnea Jensen Svenningsson",
+            "Lana Kabtoul",
+            "Oliver Magnusson",
+            "Simon Nilsen",
+            "Lukas Nord",
+            "Agnes Tor\u00e9n",
+            "Sara Trkman"
+        ]
+    },
+    {
+        "class_name": "NA20A",
+        "students": [
+            "Hugo Als\u00e9n M\u00e4kel\u00e4",
+            "Hanna Backmark",
+            "Hanna Bj\u00e4rsholm",
+            "Katarina Curko",
+            "Wilma Emanuelsson",
+            "Thea Fredholm",
+            "Axel Frejd Grohmann",
+            "Ebba Gumaelius",
+            "Nelly Haraldsson",
+            "Victor Jungerby",
+            "Alice J\u00f6nsson",
+            "Ebba Kemper",
+            "Elsa Larsson",
+            "Emanuel Lesic",
+            "Emelie Lindroth",
+            "Hanna Lundgren",
+            "Clara Martini",
+            "Linda Okopinski",
+            "William Rimestad",
+            "Dennis Rud\u00e9n",
+            "Tilde Sandvik",
+            "Annie Sepp\u00e4l\u00e4",
+            "Alexandra Sredojevic",
+            "Elsa Theorin"
+        ]
+    },
+    {
+        "class_name": "NA20B",
+        "students": [
+            "Ayah Mohammed Abugharbia",
+            "Ajla Bilkic",
+            "Mawada Omar Bin",
+            "Abd-Alrahman Chms Aldden",
+            "Meas Aeman Hajkador",
+            "Badra Ali Jamac",
+            "Isabell Jensen",
+            "Jamal Najjar"
+        ]
+    },
+    {
+        "class_name": "RL18",
+        "students": [
+            "Beppe Bergsten",
+            "Max Br\u00fcel",
+            "Brian Goldschmidt Aros",
+            "Julia Henriksson",
+            "Sofia Magdalena Karlsson",
+            "Benya Kudeedang",
+            "Albin Kvick",
+            "Felicia Mortensen Lund",
+            "Karolina Nguyen",
+            "Marshall Roup\u00e9",
+            "Tim Svensson G\u00e4rd",
+            "Antonia Tapio Teir",
+            "Shaine Tiempo Estebal",
+            "Sunshine Tiempo-Kroer",
+            "Collin Vestergren"
+        ]
+    },
+    {
+        "class_name": "RL19",
+        "students": [
+            "Leilani Campbell",
+            "Isabella Jensen",
+            "Janina Polvela",
+            "Egzon Qizmolli",
+            "Fabian Ryd\u00e9n Linn\u00e9",
+            "Hampus Sj\u00f6gren",
+            "Michael Sukbumrung Fuenzalida",
+            "Deimante Venckute"
+        ]
+    },
+    {
+        "class_name": "RL20",
+        "students": [
+            "Izabella Dimitrievska",
+            "Isak Emmot",
+            "Kajsa Honkala",
+            "Benjawan Kaewsuwan",
+            "Sebastian Leiva Rodriguez",
+            "Emilia Lydell Nordstr\u00f6m",
+            "Klaudia M\u00f6llerstr\u00f6m",
+            "Anton Nilsson",
+            "Emmy Nord\u00e9n",
+            "Gia Khang Phan",
+            "Felicia Ros",
+            "Tor Sj\u00f6berg",
+            "Carl Thelin",
+            "Olivia T\u00f6reland"
+        ]
+    },
+    {
+        "class_name": "SA18A",
+        "students": [
+            "David Batljan",
+            "Selma Blekic",
+            "Moa Edin",
+            "Agnes Eriksson",
+            "Filip Gullander",
+            "Mirza Hadzisalihovic",
+            "Liban Haji Hashi",
+            "Benjamin Hamzic",
+            "Almin Handanagic",
+            "Jasmine Hedberg",
+            "Ida Heljemo",
+            "Johanna Hjelm",
+            "Altea Johansson Strindlund",
+            "Sara Karlsson",
+            "Hodan Mohamud Khader",
+            "Ebba Kronvall",
+            "Maja M\u00e5rtensson",
+            "Elsa Nilenfors",
+            "Edina Sehic",
+            "Hamdi Sharmarke Ali",
+            "Alma Sutkovic",
+            "Gustav Toll",
+            "Tommy Westin",
+            "Margarita Zouridis"
+        ]
+    },
+    {
+        "class_name": "SA18B",
+        "students": [
+            "Arlind Ahmeti",
+            "Raja Almansour",
+            "Alexander Bergstr\u00f6m",
+            "Elin Blomqvist",
+            "Amanda Carlberg",
+            "Olivia Carlsson",
+            "Ellen Edman",
+            "Eddie Feiff",
+            "Florent Fetai",
+            "Shuceyb Haji Hashi",
+            "Ida H\u00e5kansson",
+            "Danny Le",
+            "David Le",
+            "Tilda Niemi",
+            "Johannes Seitaniemi",
+            "Annie St\u00e5hl",
+            "Cornelia St\u00e5lbrand",
+            "William Svensson"
+        ]
+    },
+    {
+        "class_name": "SA19A",
+        "students": [
+            "Hampus Bj\u00f6rck",
+            "Jennifer Bogesten",
+            "Nikolina Bozic",
+            "Jonte Dahl Lindstr\u00f6m",
+            "Ida Delbert",
+            "Johanna Emanuelsson",
+            "Tilda Eriksson",
+            "Ofelia Filipsson",
+            "John Gren",
+            "\u00c4ngla Gullberg",
+            "Joel Hideng",
+            "Maja Karlsson",
+            "Annie Klang",
+            "Casper Mj\u00f6sberg",
+            "Hodan Hassan Mohamed",
+            "Thi Cam Tu Nguyen",
+            "M\u00e5ns Ostrelius",
+            "Simon Rosenl\u00f6w",
+            "Alexander Ryd",
+            "Denise Schelander",
+            "Albin Sveningsson",
+            "Linus Svensson",
+            "Lucas Svensson",
+            "Jonathan Thelin",
+            "Mulki Abdirahman Yusuf"
+        ]
+    },
+    {
+        "class_name": "SA19B",
+        "students": [
+            "Jaber Ahmad Al Mahamed",
+            "Linn\u00e9a Edvardsson",
+            "Felicia Engstr\u00f6m",
+            "Sandra Engstr\u00f6m",
+            "Hugo Hedman",
+            "Tova H\u00e5kansson",
+            "Amanda Imeri",
+            "Maja Kaagh Hagstrand",
+            "Ida Lindkvist Axelsson",
+            "Bushra Mahamud",
+            "Kajsa M\u00e5rtensson",
+            "Ellen M\u00f6ller",
+            "Aleksandra Radovanovic",
+            "Lana Radulovic",
+            "Vanesa Sallahi",
+            "My Sandblad",
+            "Mouhaned Sheban",
+            "Clara Sj\u00f6qvist",
+            "Tatiana Sulaiman",
+            "Alma Svensson",
+            "Jennifer Tran",
+            "Sara Voca"
+        ]
+    },
+    {
+        "class_name": "SA20A",
+        "students": [
+            "Alma Andersson",
+            "Caroline Borg",
+            "Amanda Carlsson",
+            "Nils Carlsson",
+            "Josefin Degrell",
+            "Alice Edin",
+            "Tindra Enocson",
+            "Stina Eriksson",
+            "Moa Hjelm",
+            "Hugo Iller",
+            "Elin Johansson",
+            "Carolina Kloppenburg",
+            "Lisa Le",
+            "Ida Lundh",
+            "Julia Onnela",
+            "Moa Petersson",
+            "Simon Rosendahl",
+            "Tuva Samuelsson",
+            "Isabella Sand",
+            "Ville Sepp\u00e4l\u00e4",
+            "Patrik Smoljan",
+            "Alfred Sp\u00e5ng",
+            "Stina Sundberg",
+            "Matilda S\u00f6derqvist"
+        ]
+    },
+    {
+        "class_name": "SA20B",
+        "students": [
+            "Fatma Al-Kastaban",
+            "Khalid Farah",
+            "Ozzy Faraj",
+            "Valon Grabovci",
+            "Felicia Gustafsson",
+            "Taimaz Hatoukh",
+            "Erna Jakupovic",
+            "Anel Kilim",
+            "Max Kronvall",
+            "Ismail Abdirashid Mahamed",
+            "Sabina Majstorovic",
+            "Emira Meta",
+            "Aya Miro",
+            "Kevin Scammel",
+            "Jonathan Seitaniemi",
+            "Anes Skender",
+            "Alma Thuresson",
+            "Dorart Zeciri"
+        ]
+    },
+    {
+        "class_name": "TE20A",
+        "students": [
+            "Christopher Agriam",
+            "Felix Alqvist",
+            "Abdalla Al-Shehari",
+            "Gustav Andersson",
+            "Philip Axelsson",
+            "Tony Cerek",
+            "Vilmer Fransson",
+            "Erik Friberg",
+            "Herman Fuchs",
+            "Ville Haapaniemi",
+            "Axel Hallberg",
+            "Tilda Hallberg",
+            "J\u00f6ran Hammar",
+            "Felix Johansson",
+            "Anton Josefsson",
+            "Filip Karlsson",
+            "Daniel Mijatovic",
+            "Filip Niemel\u00e4",
+            "Joel P\u00e5lsson",
+            "Amanda Sahlin",
+            "Felix Sj\u00f6lander",
+            "Ellen Svedberg",
+            "Asta T\u00f6rnkvist",
+            "Julius W\u00e4stman"
+        ]
+    },
+    {
+        "class_name": "TE20B",
+        "students": [
+            "Mahmoud Alibrahim",
+            "Majd Al-Mayyed",
+            "Anton Andersson",
+            "Sam Baniodi",
+            "Vilgot Blohm",
+            "Emma Dao",
+            "Karl Edenborg",
+            "Sara El Elawi",
+            "Belma Hamidovic",
+            "Erna Hamidovic",
+            "Hannah Hamzic",
+            "John Josephson",
+            "David Karlsson",
+            "Axel K\u00e4llner",
+            "Alice Lundstr\u00f6m",
+            "Kenny Nguyen",
+            "Zidane Nguyen",
+            "Vlad-Fabian Rusu",
+            "Albin Samuelsson",
+            "William Svenningsson",
+            "David Wieslander"
+        ]
+    },
+    {
+        "class_name": "TED18",
+        "students": [
+            "Ida Alm Johansson",
+            "Edvin Bascelija",
+            "Joel Berntsson",
+            "Elin Birgersson",
+            "Ella Blixt",
+            "Noah Elwing",
+            "Lisa Enocsson",
+            "Ivar Frylestam Strandman",
+            "Gabriel Gull",
+            "Anton Hjalmarsson",
+            "Anthony Holmqvist",
+            "Saga Kallo",
+            "Jacob Karlsson",
+            "Vilma Landberg",
+            "Jenny Le",
+            "Felicia Lindroth",
+            "Filip Lorentsson",
+            "Laban Martini",
+            "Anton Naij",
+            "Oscar Ottosson",
+            "Nela Pilakovic",
+            "Sebastian P\u00e5lsson",
+            "Alfred Rosendahl",
+            "Leo Runesson",
+            "Lydia St\u00e5hl",
+            "Albin Sund"
+        ]
+    },
+    {
+        "class_name": "TED19",
+        "students": [
+            "Sabri Abdul Fatah",
+            "Saleh Almohamad",
+            "Edwin Bergfoth",
+            "Emil Bernroth",
+            "Omer Daher Deri",
+            "Lucas Eriksson",
+            "Malek Ghanem",
+            "Marcus Hellkvist",
+            "Hampus Jakobsson",
+            "Erik Jaldevik",
+            "Amanda Josefsson",
+            "Erica Karlsson",
+            "Julia Lundstr\u00f6m",
+            "David L\u00f6bo",
+            "Gabriel Magnusson",
+            "Andy Nguyen",
+            "August Odenholt",
+            "Victor Petersson",
+            "Lucas Pettersson Stewart",
+            "Mahir Hamsa Said",
+            "Oscar Stenberg",
+            "Adam Svenningsson"
+        ]
+    },
+    {
+        "class_name": "TEI18",
+        "students": [
+            "Ensar Abduramanovski",
+            "Ahamad Alchouikh",
+            "Abd Alrahman Atieh",
+            "Alexander Cao",
+            "Hampus Flack",
+            "Daniel Luu",
+            "Dejan Mijatovic",
+            "Anton Sj\u00f6\u00f6",
+            "Lucas Sundberg"
+        ]
+    },
+    {
+        "class_name": "TEP18",
+        "students": [
+            "Marcus Ackevik",
+            "Patric Eliasson",
+            "Eric Emanuelsson",
+            "Victor Engberg",
+            "Axel Karlsson",
+            "Kristian Meht\u00e4l\u00e4"
+        ]
+    },
+    {
+        "class_name": "TET18",
+        "students": [
+            "Wafa Almansour",
+            "Albert Beqiri",
+            "Mohamd Amar Chms Aldden",
+            "Max Edvinsson",
+            "Joel Emmot",
+            "Elvis Kroon",
+            "Filip Tomasz Minierski",
+            "Alicia N\u00e4slund",
+            "Erik Samuelsson",
+            "Rasmus Tiger"
+        ]
+    },
+    {
+        "class_name": "TET19",
+        "students": [
+            "Kusai Al Malt",
+            "Mohamad Reza Amiri",
+            "Andr\u00e9s Andersson",
+            "Emma Aronsson",
+            "August Bj\u00f6rk",
+            "Elias Bouchaibi",
+            "Laimis Cepulis",
+            "Elin Davidsson",
+            "William Ekman",
+            "Jacob Enbj\u00e4rde",
+            "Rene Ignacio Gonz\u00e1lez P\u00e9rez",
+            "Julia G\u00f6ransson",
+            "Isak Henningsson",
+            "Albin Kannenberg",
+            "Elias K\u00e4ppi",
+            "Elias M\u00e5nsson",
+            "Elin Ohliw",
+            "Elin Samuelsson",
+            "Emilia Skans",
+            "Natalija Stajic",
+            "Leonardo Stenby"
+        ]
+    },
+    {
+        "class_name": "VAL1",
+        "students": [
+            "Anders Andersson"
+        ]
+    },
+    {
+        "class_name": "VAL2",
+        "students": [
+            "Per Persson"
+        ]
+    },
+    {
+        "class_name": "VF18",
+        "students": [
+            "Philip Boman"
+        ]
+    },
+    {
+        "class_name": "VF19",
+        "students": [
+            "Tim Alklid",
+            "Kevin Fransson"
+        ]
+    },
+    {
+        "class_name": "VO18",
+        "students": [
+            "Munira Abdulqadir Auo",
+            "Kasem Alahmad",
+            "Faez Al-Shamary",
+            "Mathilda Axelsson",
+            "Ebba Jacobsson",
+            "Alma Josephson",
+            "Nicole Kristensen",
+            "Darlyng Leyton Bueno",
+            "Malyun Abdirashid Mahamed",
+            "Baddra Mohammadin",
+            "Molly Penny",
+            "Stella Petersson",
+            "Fernanda Serey Palma"
+        ]
+    },
+    {
+        "class_name": "VO19",
+        "students": [
+            "Hayat Aodi",
+            "Stina Axelsson",
+            "Hugo Bystr\u00f6m",
+            "Cabdiacasiis Daauud Axmed",
+            "Saara Yuusuf Haamud",
+            "Zuzanna Jablonska",
+            "Abdikafi Dahir Mohamed",
+            "Saynab Muuse Dhoombe",
+            "Isabella Rappu",
+            "Beatris Serey Palma",
+            "Emina Skoric",
+            "Nellie Strand"
+        ]
+    },
+    {
+        "class_name": "VO20",
+        "students": [
+            "Celine Shhed Abazeed",
+            "Amra Ademovska",
+            "Lana Al Krad",
+            "Sara Alabdo Alyasfo",
+            "Lana Aldaher",
+            "Sedra Alkadrou",
+            "Tindra Aronsson",
+            "Fahimo Ahmed Hashi",
+            "Nora Jakobsson",
+            "Arta Januzi",
+            "My Jepsen",
+            "Joy Julian To-Os",
+            "Erna Kadric",
+            "Emma Kienbacher",
+            "Malva L\u00f6\u00f6v",
+            "Alaa Said",
+            "Michelle Schelander",
+            "Ali Talal Mohammed Jbarah"
+        ]
+    }
+]
