@@ -9,6 +9,7 @@ import { LayoutModule } from '@angular/cdk/layout';
 import { MaterialModule } from './material/material.module';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
+import { LunchComponent } from './lunch/lunch.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { AboutComponent } from './about/about.component';
     AppComponent,
     HomeComponent,
     AboutComponent,
+    LunchComponent,
 
   ],
   imports: [
@@ -23,7 +25,7 @@ import { AboutComponent } from './about/about.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     LayoutModule,
-    MaterialModule
+    MaterialModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
