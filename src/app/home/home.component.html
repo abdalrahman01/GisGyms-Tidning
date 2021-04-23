@@ -1,51 +1,28 @@
 <div class="container">
     <div class="logo">
     </div>
-    <div class="author-chips">
+    <!-- <div class="author-chips">
         <mat-chip-list aria-label="Fish selection">
-            <mat-chip selected>Generel</mat-chip>
-            <mat-chip>Skolledning</mat-chip>
-            <mat-chip>Elev Rådet</mat-chip>
-          </mat-chip-list>
-    </div>
+            <mat-chip (click)="select_choice('Generel')">Generel</mat-chip>
+            <mat-chip (click)="select_choice('Skolledning')">Skolledning</mat-chip>
+            <mat-chip (click)="select_choice('Elevrådet')">Elev Rådet</mat-chip>
+        </mat-chip-list>
+
+    </div> -->
     <section class="news">
         <div class="news__items row">
-            <div class="news__item col-sm-12 col-md-6 col-lg-4">
+            <div class="news__item col-sm-12 col-md-6 col-lg-4" *ngFor="let artikel of News">
                 <h1 class="news__title">
-                    Title Hewe
+                    {{artikel.title}}
                 </h1>
                 <p class="news__content">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia eos quod ipsum accusantium dicta, rerum soluta nostrum necessitatibus, aut eveniet vero sed placeat itaque fugit veniam magni qui beatae eaque adipisci earum corrupti exercitationem ipsa? Explicabo voluptates, est voluptas eveniet reiciendis rerum, aut numquam, vel unde ipsum quaerat quis eos!
+                    {{artikel.content}}
                 </p>
-                <span class="news__auther">
-                    Elev Rådet
+                <span class="news__author">
+                    {{artikel.author}}
                 </span>
+                <span class="news__date">{{artikel.date }}</span>
             </div>
-           
-            <div class="news__item col-sm-12 col-md-6 col-lg-4">
-                <h1 class="news__title">
-                    Title Hewe
-                </h1>
-                <p class="news__content">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia eos quod ipsum accusantium dicta, rerum soluta nostrum necessitatibus, aut eveniet vero sed placeat itaque fugit veniam magni qui beatae eaque adipisci earum corrupti exercitationem ipsa? Explicabo voluptates, est voluptas eveniet reiciendis rerum, aut numquam, vel unde ipsum quaerat quis eos!
-                </p>
-                <span class="news__auther">
-                    Elev Rådet
-                </span>
-            </div>
-           
-            <div class="news__item col-sm-12 col-md-6 col-lg-4">
-                <h1 class="news__title">
-                    Title Hewe
-                </h1>
-                <p class="news__content">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia eos quod ipsum accusantium dicta, rerum soluta nostrum necessitatibus, aut eveniet vero sed placeat itaque fugit veniam magni qui beatae eaque adipisci earum corrupti exercitationem ipsa? Explicabo voluptates, est voluptas eveniet reiciendis rerum, aut numquam, vel unde ipsum quaerat quis eos!
-                </p>
-                <span class="news__auther">
-                    Elev Rådet
-                </span>
-            </div>
-           
         </div>
     </section>
     <hr>
