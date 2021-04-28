@@ -1,0 +1,21 @@
+.klass{
+    padding: 1rem;
+
+    border: 2px solid red;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    min-width:420px ;
+    &__name{
+        font-size: xx-large;
+        color: blue;
+        text-align: center;
+    }
+    &__elev {
+        text-align: center;
+    }
+    @include transition-ease;
+    
+    &:hover{
+        background-color: rosybrown;
+    }
+}
