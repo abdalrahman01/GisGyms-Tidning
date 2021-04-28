@@ -13,3 +13,18 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+.social-icons {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 1;
+  display: grid;
+
+  a {
+      padding: 0.4rem;
+      @include transition-ease;
+      &:hover {
+          color: red;
+      }
+  }
+}
