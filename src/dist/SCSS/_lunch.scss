@@ -1,0 +1,67 @@
+.tiny {
+    display: block;
+    max-width: 650px;
+    margin: 32px auto 0;
+    padding: 0 24px;
+
+    h2 {
+        font-weight: 600;
+        font-size: 28px;
+        color: #111;
+        display: block;
+        margin: 0 0 16px;
+        img {
+            float: right;
+            height: 40px;
+        }
+    }
+}
+
+#weeks {
+    
+    h3{
+        margin: 0 0 12px;
+        color: #222;
+        font-weight: 500;
+        
+        span{
+            font-weight: 300;
+        }        
+    }
+
+}
+
+#menu {
+    .row{
+        margin: 0 0 24px;
+       
+        .date {
+            width: 100px;
+            * {
+                display: block;
+            }
+            .weekday{
+                font-weight: 500;
+                font-size: 19px;
+                color: #222;
+                margin: 0 0 3px;
+                
+                
+            }
+            .min {
+                display: none;
+                    
+            }
+        }
+
+        .items {
+            width: calc(100% - 105px);
+        }
+    }
+    p{
+        margin: 0 0 5px;
+        color: #111;
+        font-size: 17px;
+        line-height: 120%;    
+    }
+}

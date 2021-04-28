@@ -1,0 +1,33 @@
+.sidenav-container {
+    height: 100%;
+}
+
+.sidenav {
+    // padding-top: 100px;
+    width: 200px;
+}
+
+.sidenav .mat-toolbar {
+    background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.social-icons {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    z-index: 1;
+    display: grid;
+
+    a {
+        padding: 0.4rem;
+        @include transition-ease;
+        &:hover {
+            color: red;
+        }
+    }
+}
