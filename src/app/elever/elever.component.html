@@ -1,9 +1,9 @@
 <div class="container">
-    <div class="row">
+    <div class="elever">
         <div *ngFor="let class of elever">
-            <div class="klass col-sm-12 col-md-4">
-                <h1 class="klass__name">{{class.class_name}}</h1>
-                <div class="klass__elev" *ngFor="let elev of class.students">
+            <div class="elever__class">
+                <h1 class="elever__classname">{{class.class_name}}</h1>
+                <div class="elver__elevname" *ngFor="let elev of class.students">
                     {{ elev}}
                 </div>
             </div>
