@@ -2,6 +2,13 @@
     <section class="news">
         <div class="news__items ">
             <div class="news__item" *ngFor="let artikel of News">
+                <button mat-icon-button class="news__more_vert">
+                    <mat-icon>more_vert</mat-icon>
+                </button>
+
+                <button mat-icon-button class="news__open_in_new">
+                    <mat-icon>open_in_new</mat-icon>
+                </button>
                 <h1 class="news__title">
                     {{artikel.title}}
                 </h1>
@@ -16,6 +23,7 @@
                         {{artikel.date }}
                     </span>
                 </div>
+               
             </div>
         </div>
     </section>
