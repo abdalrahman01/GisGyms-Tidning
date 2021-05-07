@@ -1,7 +1,25 @@
-#signature{
-    stroke-dasharray: 4042.66943359375;
-    stroke-dashoffset: 4042.66943359375;
-    animation: sign 10s ease ;
+.about {
+    border: black 1px solid;
+
+    min-height: 100vh;
+    svg {
+        position: relative;
+        bottom: -3rem;
+        right: 1rem;
+    }
+    p {
+        text-align: justify;
+        text-justify: inter-word;
+        padding: 1rem;
+        z-index: 1;
+
+    }
+}
+
+#signature {
+    stroke-dasharray: 2562.901611328125;
+    stroke-dashoffset: 2562.901611328125;
+    animation: sign 5s ease;
     animation-fill-mode: forwards;
 }
 @keyframes sign {
